@@ -1,0 +1,41 @@
+[
+  {
+    "id": "piece-001",
+    "title": "Jackass",
+    "wing": "The Cul-de-Sac Baroque",
+    "inspiration": "Dutch Realism",
+    "event_date": "2024-07",
+    "location": "neighborhood driveway",
+    "subjects": ["Mike", "Dave"],
+    "wall_text": "A study in ambush and consequence: the artist captures the precise instant a domestic prank tips into folly, rendered with the unflinching gravity of a Baroque martyrdom scene.",
+    "size": "large",
+    "shape": "rect",
+    "image": "images/piece-001.png"
+  },
+  {
+    "id": "piece-002",
+    "title": "The Reckless Descent",
+    "wing": "The Cul-de-Sac Baroque",
+    "inspiration": "Dutch Realism",
+    "event_date": "2024-08",
+    "location": "neighborhood cul-de-sac",
+    "subjects": ["Dave"],
+    "wall_text": "This work captures a fleeting moment of domestic tragedy with unflinching realism, the subject's flight rendered in the tradition of Baroque suffering.",
+    "size": "medium",
+    "shape": "rect",
+    "image": "images/piece-001.png"
+  },
+  {
+    "id": "piece-003",
+    "title": "Portrait of a Man Mid-Regret",
+    "wing": "The Backyard Renaissance",
+    "inspiration": "Surrealism",
+    "event_date": "2025-05",
+    "location": "backyard patio",
+    "subjects": ["Mike"],
+    "wall_text": "An intimate character study, the sitter's expression caught between confidence and the dawning realization of a mistake.",
+    "size": "small",
+    "shape": "oval",
+    "image": "images/piece-001.png"
+  }
+]
