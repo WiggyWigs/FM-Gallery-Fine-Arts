@@ -23,7 +23,7 @@
     "wall_text": "This work captures a fleeting moment of domestic tragedy with unflinching realism, the subject's flight rendered in the tradition of Baroque suffering.",
     "size": "medium",
     "shape": "rect",
-    "image": "images/piece-001.png"
+    "image": "images/piece-002.png"
   },
   {
     "id": "piece-003",
@@ -36,6 +36,6 @@
     "wall_text": "An intimate character study, the sitter's expression caught between confidence and the dawning realization of a mistake.",
     "size": "small",
     "shape": "oval",
-    "image": "images/piece-001.png"
+    "image": "images/piece-003.png"
   }
 ]
